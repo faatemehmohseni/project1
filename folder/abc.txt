@@ -1,0 +1,5 @@
+Documentation....
+
+git add <folder...or file>
+git commit -m "Your message..."
+git push
